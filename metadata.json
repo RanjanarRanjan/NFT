@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Dear Bear", 
+        "external_url": "https://www.kba.ai", 
+        "image": "https://rose-efficient-dormouse-798.mypinata.cloud/ipfs/bafybeieqrwvx43ph3l5lbnar4l4oq2pu4zuyern2j23wxeb7ntt5hhhbva", 
+        "name": "Bear",
+        "attributes": [  
+        {
+            "trait_type": "color", 
+            "value": "Blue"
+        }, 
+        {
+            "trait_type": "Object", 
+            "value": "bear"
+        } 
+        ]
+    },
+    {
+        "description": "Blockchain", 
+        "external_url": "https://www.kba.ai", 
+        "image": "https://rose-efficient-dormouse-798.mypinata.cloud/ipfs/bafkreiduwwlmh4bxssoz3ytkvo2rj5lhyeu7kexspmb74wgcakin3b27si", 
+        "name": "Blockchain",
+        "attributes": [  
+        {
+            "trait_type": "color", 
+            "value": "Blue"
+        }, 
+        {
+            "trait_type": "Object", 
+            "value": "bear"
+        } 
+        ]
+    }
+]
